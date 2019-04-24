@@ -1,0 +1,53 @@
+#Prisijungti{
+        background-color: #4CAF50;
+        border: none;
+        color: white;
+        padding: 5px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 2px 1px;
+        border-radius: 10px;
+}
+#Bendras{
+    margin-left: 30px;
+}
+#Title{
+    padding-bottom: 50px;
+}
+#slaptazodis{
+    margin-left: 68px;
+}
+#Prisijungimas{
+    margin-left: 10px;
+}
+#Mygtukai{
+    padding-left: 13%;
+}
+#Mygtukas{
+    padding-left: 17.2%;
+}
+.vertical-center {
+    min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
+    min-height: 100vh; /* These two lines are counted as one :-)       */
+    padding-left: 40%;
+    display: flex;
+    align-items: center;
+  }
+#Registracija{
+    background-color:   #3399ff;
+    border: none;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 2px 1px;
+    border-radius: 10px;
+    
+}
+#Uzmirstas{   
+    color:#00478d;
+}
